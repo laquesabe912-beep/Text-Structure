@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8"
+</head>
+<body>
+    <h1>Text and Structure Assignment</h1>
+    <p>This is where I develop the ideas of the heading</p>
+    <section>List Practice</section>
+    <h2>Uonrdered List</h2>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+    <br>
+    <ol>
+    <li>1.Item 1</li>
+    <li>2.Item 2</li>
+    <li>3.Item 3</li>
+    </ol>
+
+    <h3>Third Heading</h3>
+    <p>Page Content</p>
+    <h4>Heading 4</h4>
+    <p>Paragraph text</p>
+    <h5>Two More To Go!</h5>
+    <p>Page content</p>
+    <h6>Last One!!!</h6>
+    <footer>End of Assignment</footer>
+    </body>
+    </html>
+
+
+
+    
